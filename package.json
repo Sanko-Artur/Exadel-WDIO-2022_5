@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "@cucumber/cucumber": "^8.0.0",
     "@wdio/allure-reporter": "^7.16.3",
     "@wdio/cli": "^7.16.5",
     "@wdio/local-runner": "^7.16.5",
